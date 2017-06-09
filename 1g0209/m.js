@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.8";			
+f[1]	= "title_07.mp4";		
+f[2]	= "title_08.mp4";		
+f[3]	= "title_56.mp4";		
+f[4]	= "T_45_chapter_01.mp4";		
+f[5]	= "T_45_chapter_02.mp4";		
+f[6]	= "T_45_chapter_03.mp4";		
+f[7]	= "T_45_chapter_04.mp4";		
+f[8]	= "T_45_chapter_05.mp4";		
+f[9]	= "T_46_chapter_01.mp4";		
+f[10]	= "T_46_chapter_02.mp4";		
+f[11]	= "T_46_chapter_04.mp4";		
+f[12]	= "T_46_chapter_05.mp4";		
+f[13]	= "T_47_chapter_01.mp4";		
+f[14]	= "T_47_chapter_05.mp4";		
+f[15]	= "T_47_chapter_08.mp4";		
